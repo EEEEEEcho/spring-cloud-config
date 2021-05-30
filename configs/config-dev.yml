@@ -1,2 +1,2 @@
 config:
-  info: config center dev.yml version=3
+  info: config center dev.yml version=3 ibus
